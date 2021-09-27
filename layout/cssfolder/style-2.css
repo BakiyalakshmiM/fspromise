@@ -1,0 +1,42 @@
+.div{
+    height:500px;
+    width:70%;
+    border:5px solid grey;
+    border-top:40px solid grey;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    font-size:13px;
+    display:flex;  
+    justify-content:space-between;  
+}
+.circle{
+    width:12px;
+    height:12px;
+    border-radius:50%;
+    position:absolute;
+    top:23px;
+}
+.circle-1{
+    background:red;
+    left:23px;
+}
+.circle-2{
+    background:yellow;
+    left:43px;
+}
+.circle-3{
+    background:rgb(29, 189, 29);
+    left:63px;
+}
+.common{
+    height:100px;
+    width:100px;
+    color:white;
+    background:black;
+}
+.div-2{
+    margin-top:100px;
+}
+.div-3{
+    margin-top:200px;
+}
